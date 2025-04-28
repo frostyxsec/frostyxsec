@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Hello</h1>
 </div>
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frostyxsec@proton.me) 
 
