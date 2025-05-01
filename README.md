@@ -1,4 +1,4 @@
-# 😎 Hello:
+# Welcome:
 ただのオタクでサイバーセキュリティ愛好家
 
 ## 🌐 Socials:
