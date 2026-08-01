@@ -9,8 +9,6 @@ th visitor!
 ___
 #### ✅ About ME
 * I am a 21 yo university school student with a little programming knowledge.
-* Learning Language: `Javascript`, `Typescript`, `Java`, `Python`, `Kotlin`, `Bash Script`.
-* Learning Framework: `React`, `NextJS`.
 
 ![](https://github-readme-stats.shion.dev/api?username=frostyxsec&show_icons=true&count_private=true)
 
