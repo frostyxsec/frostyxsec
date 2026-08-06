@@ -1,5 +1,3 @@
-### 👋 Hi There! This is Frostynxth.
-
 <h2 align="left">Hi There 👋!</h2>
 
 ###
@@ -68,5 +66,9 @@ th visitor!
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/frostyxsec/frostyxsec/output/snake.svg" alt="Snake animation" />
 
 ###
