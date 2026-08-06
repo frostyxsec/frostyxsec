@@ -8,8 +8,6 @@
   th visitor!
 </p>
 
-<img align="right" height="180" src="https://i.pinimg.com/1200x/94/e4/e0/94e4e0671ab2034cccaec070365ddb9b.jpg" alt="Profile Image"/>
-
 <br clear="both">
 
 ---
@@ -88,7 +86,3 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
 
 ---
-
-#### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/frostyxsec/frostyxsec/output/snake.svg" alt="Snake animation" />
