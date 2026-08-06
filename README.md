@@ -7,7 +7,7 @@ th visitor!
 </p>
 
 ___
-#### ✅ About ME
+#### ✅ About Me
 * I am a 21 yo university school student with a little programming knowledge.
 
 ![](https://github-readme-stats.shion.dev/api?username=frostyxsec&show_icons=true&count_private=true)
