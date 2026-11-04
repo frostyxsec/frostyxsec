@@ -13,7 +13,7 @@
 ---
 
 #### ✅ About Me
-- 22 y/o university student with a little programming knowledge.
+- 21 y/o university student with a little programming knowledge.
 - Currently exploring web development, mobile, and cybersecurity.
 
 ## 🌐 Socials:
